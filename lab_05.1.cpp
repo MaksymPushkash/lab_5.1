@@ -23,5 +23,3 @@ double g(double a, double b)
 {
     return a * a + a * b + b * b;
 }
-
-
